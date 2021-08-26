@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AULA 5</title>
+</head>
+<body>
+    <h1>Lista de Urgencias </h1>
+
+    <p>Preciso fazer essas coisas urgentemente antes que esqueça</p>
+<ol type="1">
+    <li> <h1>Compras do mês</h1> </li>
+    <img src="C:\Users\Antonio\Desktop\FRONT END 1\AULA 5 - FRONTEND\img\Compra-de-mercado.jpg">
+
+<ol type="i">
+    <li>Arroz</li>
+    <li>Brócolis</li>
+    <li>Cebola</li>
+    <li>Batata Congelada</li>
+</ol>
+
+
+    <li> <h1>Limpar o banheiro</h1> </li>
+    <img src="C:\Users\Antonio\Desktop\FRONT END 1\AULA 5 - FRONTEND\img\limpar_vaso_sannitario_vaso_do_banheiro (1).jpg">
+
+    <li> <h1>Relaxar um pouco</h1> </li>
+    <img src="C:\Users\Antonio\Desktop\FRONT END 1\AULA 5 - FRONTEND\img\article_13771951044.png">
+</ol>
+
+</body>
+</html>
