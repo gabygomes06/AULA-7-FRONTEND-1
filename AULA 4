@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta charset="utf-8">
+   <title> Minha primeira página</title>   
+  </head>
+
+  <body>
+
+  <h1>Bolo de Cenoura com Cobertura de Chocolate</h1>
+
+  <p>Tal qual conhecemos hoje, o bolo de cenoura é brasileiro por excelência e tem histórias recente. O bolo de cenoura é um bolo doce com</p>
+  <p>raspagem de cenoura misturada dentro da massa. A cenoura é amolecida no processo de cozimento, e o bolo, usualmente, tem um</p>
+  <p>amolecimento e uma textura densa e suave. A origem desta receita é incerta, mas certamente é uma das receitas mais populares em todo o Brasil!</p>
+  
+  <h3>Ingredientes da massa</h3>
+  
+  <ul>
+      <li>1/2 xícara (chá) de óleo</li>
+      <li>3 cenouras médias raladas</li>
+      <li>4 ovos</li>
+      <li>2 xícaras (chá) de açúcar</li>
+      <li>2 e 1/2 xícaras (chá) de farinha de trigo</li>
+      <li>1 colher (sopa) de fermento em pó</li>
+  </ul>
+
+  <h3>Ingredientes da Cobertura</h3>
+  
+  <ul>
+      <li>1 colher (sopa) de manteiga</li>
+      <li>3 colheres (sopa) de chocolate em pó</li>
+      <li>1 xícara (chá) de açúcar</li>
+      <li>1 xícaras (chá) de leite</li>
+ </ul>
+
+  <h3>Preparo da Massa</h3>
+
+  <p>Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture. Acrescente o açúcar e bata novamente por 5 minutos. Em</p>
+  <p>uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente. Acrescente o fermento e misture lentamente com uma</p>
+  <p>colher. Asse em um forno pre aquecido a 180º C por aproximadamente 40 minutos.</p>
+  
+  <h3>Preparo da Cobertura</h3>
+
+  <p>Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture. Leve a mistura ao fogo e continue misture</p>
+  <p>até obter uma consistência cremosa, depois despeje a calda por cima do bolo.</p>
+
+  <a href="https://www.receiteria.com.br/receitas-com-cenoura/"> Clique aqui para ver outras receitas com cenoura</a>
+  
+  </body>
+
+</html>
